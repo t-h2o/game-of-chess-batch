@@ -1,12 +1,8 @@
-# robot-self-balancing
+# Game of chess
 
---  STATE  --
+> A batch game
 
-starting project
-
-
-
---  GOAL  --
+## Goals
 
 - Do a chess game in the window terminal
 - Use chess commande to move piece
