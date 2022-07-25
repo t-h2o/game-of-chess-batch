@@ -2,6 +2,8 @@
 
 > A batch game
 
+![screenshot CMD](Assets/screenshot.png)
+
 ## Goals
 
 - Do a chess game in the window terminal
